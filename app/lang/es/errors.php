@@ -9,12 +9,12 @@
 */
 
 return [
-    'csrf_token_invalid' => 'CSRF token is missing or invalid',
-    'item_required' => 'Item {key} is required.',
-    'item_email' => 'Item {key} must be a valid E-Mail address',
-    'item_too_short' => 'Item length of {key} must be greater than {min}',
-    'item_too_large' => 'Item length of {key} must be less than {max}',
-    'item_datetime' => 'Item {key} is not a valid datetime object',
-    'item_number' => 'Item {key} is not a valid number',
-	'item_regex' => 'Item {key} does not fit pattern {pattern}'
+    'csrf_token_invalid' => 'El token CSRF no se encuentra o se inválido',
+    'item_required' => 'El elemento {key} es requerido.',
+    'item_email' => 'El elemento {key} debe ser una dirección de E-Mail válida',
+    'item_too_short' => 'El tamaño del elemento {key} debe ser mayor que {min}',
+    'item_too_large' => 'El tamaño del elemento {key} debe ser menor que {max}',
+    'item_datetime' => 'El elemento {key} no es un objeto de tiempo válido',
+    'item_number' => 'El elemento {key}  no es un número válido',
+	'item_regex' => 'El elemento {key} no se ajusta al patrón {pattern}'
 ];
