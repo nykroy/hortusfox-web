@@ -1,7 +1,7 @@
 <?php
 
 /*
-	Asatru PHP - English language file
+	Asatru PHP - Spanish language file
 
 	Extend this with your phrases
 	
